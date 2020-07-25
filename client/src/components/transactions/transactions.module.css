@@ -1,0 +1,15 @@
+.receipt {
+  background-color: lightgreen;
+  border: solid 1px green;
+  border-radius: 5px;
+}
+
+.expense {
+  background-color: palevioletred;
+  border: solid 1px red;
+  border-radius: 5px;
+}
+
+.grid {
+  margin: 2.5rem;
+}
