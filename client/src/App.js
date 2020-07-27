@@ -40,7 +40,6 @@ export default function App() {
   return (
     <div>
       <Header />
-
       <input
         placeholder="Filtro"
         type="text"

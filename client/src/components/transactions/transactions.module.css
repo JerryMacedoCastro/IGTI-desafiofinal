@@ -13,3 +13,10 @@
 .grid {
   margin: 2.5rem;
 }
+
+.box {
+  border: solid 2px #ddd;
+  margin-bottom: 5px;
+  width: 90%;
+  margin-left: 5%;
+}
