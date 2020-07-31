@@ -1,0 +1,17 @@
+.main {
+  border: solid 1px #ddd;
+  border-radius: 4px;
+  padding: 4px;
+  margin: 0px 10px 10px 10px;
+}
+
+.list {
+  overflow-x: hidden;
+  white-space: nowrap;
+  width: 100%;
+}
+.info {
+  display: inline;
+  margin-right: 20%;
+  font-weight: bold;
+}
