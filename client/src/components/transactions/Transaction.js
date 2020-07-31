@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Transaction({ transactions, date }) {
   const transactionByDate = transactions.filter((transaction) => {
-    console.log(transaction.yearMonthDay);
+    //console.log(transaction.yearMonthDay);
     return transaction.yearMonthDay === date;
   });
 
